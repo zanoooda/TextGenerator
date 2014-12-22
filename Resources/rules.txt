@@ -1,0 +1,19 @@
+﻿S -> NP VP
+S -> NP VP
+S -> Adj N  V Adv or|and V Adv
+S -> NP VP
+S -> SimpleStruct
+S -> Structure2
+
+NP -> N  
+NP -> Adj N 
+
+//VP->VP SC S
+VP->V
+VP->V Adv
+
+Structure2 -> N that like Adj N V P Adj N
+
+
+
+SimpleStruct -> Adj N V Adv

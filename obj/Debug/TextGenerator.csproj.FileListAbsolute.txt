@@ -1,0 +1,7 @@
+C:\Users\Ingvar\Desktop\TextGenerator\TextGenerator\bin\Debug\TextGenerator.dll
+C:\Users\Ingvar\Desktop\TextGenerator\TextGenerator\bin\Debug\TextGenerator.pdb
+C:\Users\Ingvar\Desktop\TextGenerator\TextGenerator\obj\Debug\TextGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Ingvar\Desktop\TextGenerator\TextGenerator\obj\Debug\TextGenerator.Properties.Resources.resources
+C:\Users\Ingvar\Desktop\TextGenerator\TextGenerator\obj\Debug\TextGenerator.csproj.GenerateResource.Cache
+C:\Users\Ingvar\Desktop\TextGenerator\TextGenerator\obj\Debug\TextGenerator.dll
+C:\Users\Ingvar\Desktop\TextGenerator\TextGenerator\obj\Debug\TextGenerator.pdb

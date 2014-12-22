@@ -1,0 +1,6 @@
+﻿after
+although
+as
+before
+if
+while
